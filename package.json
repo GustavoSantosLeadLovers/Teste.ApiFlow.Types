@@ -1,11 +1,9 @@
 {
-  "name": "teste.apiflow.types",
+  "name": "@leadlovers/flow-whats-api-types",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "main": "types/index.d.ts",
+  "files": [
+    "types"
+  ]
 }
